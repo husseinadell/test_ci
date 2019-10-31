@@ -1,0 +1,7 @@
+/home/akaseb/hussein/test_ci/CMakeFiles/install/strip.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/edit_cache.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/rebuild_cache.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/list_install_components.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/install/local.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/Benchmark.dir
+/home/akaseb/hussein/test_ci/CMakeFiles/install.dir
